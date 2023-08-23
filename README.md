@@ -1,4 +1,4 @@
-Hi 👋 My name is Anna Barbosa.
+Hi. My name is Anna Barbosa!
 ==========================
 
 I'm a 20-year-old developer and student at the INFNET Institute. I'ven been learning tech with main focus on back-end development.
